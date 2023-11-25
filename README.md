@@ -6,7 +6,7 @@ A complete Guide on How to Install Frappe/ERPNext version 15 in Ubuntu 22.04 LTS
     Setup Production
     Setup Multitenancy
     Add a Domain
-    Instal SSL Certificate
+    Install SSL Certificate
     
 ### Pre-requisites
     Ubuntu 22.04 LTS
