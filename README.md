@@ -1,5 +1,5 @@
-# How To Install ERPNext 15 in Ubuntu 22.04 LTS
-A complete Guide on How to Install Frappe/ERPNext version 15 in Ubuntu 22.04 LTS
+# How To Install ERPNext 16 in Ubuntu 22.04 LTS
+A complete Guide on How to Install Frappe/ERPNext version 16 in Ubuntu 22.04 LTS
 
 ### Steps
     Install ERPNext
